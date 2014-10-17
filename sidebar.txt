@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tus:home|Door43 (tus)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tus|d43-tus repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tus/archive/master.zip|d43-tus.zip]]
+
+**Recent Changes**
+{{changes>ns = tus}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tus|Ethnologue data]]
+
